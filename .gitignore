@@ -1,5 +1,5 @@
 .idea
-*log*
+log.xml
 *.iml
 *.jar
 *.class
